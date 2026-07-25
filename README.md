@@ -5,14 +5,15 @@
 This project analyzes **e-commerce transaction** and **clickstream** data to evaluate sales performance, customer purchasing behavior, and website conversion efficiency. By combining transactional data with user interaction events, the analysis provides business insights into product performance, revenue generation, profitability, and customer conversion across the purchasing funnel.
 
 The project includes:
-
+- 📊 Interactive Dashboard
 - 📦 Sales volume analysis
 - 💰 Revenue analysis
 - 📈 Profit analysis
 - 💵 Product margin analysis
 - 🛒 Customer conversion funnel analysis
-
 ---
+# Interactive Dashboard
+<img width="1005" height="563" alt="image" src="https://github.com/user-attachments/assets/167a1f11-5519-4de7-ba2a-e4ebc931fefb" />
 
 # Volume Analysis
 
