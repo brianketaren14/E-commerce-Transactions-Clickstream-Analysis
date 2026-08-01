@@ -13,7 +13,17 @@ The project includes:
 - 🛒 Customer conversion funnel analysis
 ---
 # Interactive Dashboard
-<img width="1038" height="644" alt="image" src="https://github.com/user-attachments/assets/3a3e8bcf-beea-4263-ae82-db0deb3bfdc7" />
+## Revenue Page
+<img width="888" height="586" alt="image" src="https://github.com/user-attachments/assets/7e9991c2-a3e3-4e52-91da-d5618d78c06e" />
+
+## Sales Profit Page
+<img width="889" height="582" alt="image" src="https://github.com/user-attachments/assets/07673ef7-32c7-440e-b64b-c88e5cc10b08" />
+
+## Volume Page
+<img width="890" height="584" alt="image" src="https://github.com/user-attachments/assets/e3d0ac9d-2981-479f-8a9a-54bb78857806" />
+
+## Funnel Page
+<img width="769" height="425" alt="image" src="https://github.com/user-attachments/assets/cb13ac3a-ea68-417f-88d2-c12b21f68a13" />
 
 # Volume Analysis
 
