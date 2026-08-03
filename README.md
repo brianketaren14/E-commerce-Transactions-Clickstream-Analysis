@@ -17,7 +17,7 @@ The project includes:
 <img width="887" height="585" alt="image" src="https://github.com/user-attachments/assets/2e929e96-0e83-4b65-bd5a-f19c62633d59" />
 
 ## Sales Profit Page
-<img width="889" height="582" alt="image" src="https://github.com/user-attachments/assets/07673ef7-32c7-440e-b64b-c88e5cc10b08" />
+<img width="888" height="588" alt="image" src="https://github.com/user-attachments/assets/0a7d19ee-dbc7-4795-938e-ef4c3d934010" />
 
 ## Volume Page
 <img width="891" height="587" alt="image" src="https://github.com/user-attachments/assets/525dea47-2bf9-4c9c-8a85-5ebfb0cc6343" />
