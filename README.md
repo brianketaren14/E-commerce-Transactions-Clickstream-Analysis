@@ -14,13 +14,13 @@ The project includes:
 ---
 # Interactive Dashboard
 ## Revenue Page
-<img width="888" height="586" alt="image" src="https://github.com/user-attachments/assets/7e9991c2-a3e3-4e52-91da-d5618d78c06e" />
+<img width="887" height="585" alt="image" src="https://github.com/user-attachments/assets/2e929e96-0e83-4b65-bd5a-f19c62633d59" />
 
 ## Sales Profit Page
 <img width="889" height="582" alt="image" src="https://github.com/user-attachments/assets/07673ef7-32c7-440e-b64b-c88e5cc10b08" />
 
 ## Volume Page
-<img width="890" height="584" alt="image" src="https://github.com/user-attachments/assets/e3d0ac9d-2981-479f-8a9a-54bb78857806" />
+<img width="891" height="587" alt="image" src="https://github.com/user-attachments/assets/525dea47-2bf9-4c9c-8a85-5ebfb0cc6343" />
 
 ## Funnel Page
 <img width="769" height="425" alt="image" src="https://github.com/user-attachments/assets/cb13ac3a-ea68-417f-88d2-c12b21f68a13" />
